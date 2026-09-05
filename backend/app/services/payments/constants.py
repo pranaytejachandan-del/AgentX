@@ -1,0 +1,8 @@
+INR_PAISE_MULTIPLIER = 100
+REFERENCE_PREFIX = "AGENTX-"
+DEFAULT_CURRENCY = "INR"
+
+EVENT_PAYMENT_LINK_PAID = "payment_link.paid"
+EVENT_PAYMENT_LINK_PARTIALLY_PAID = "payment_link.partially_paid"
+EVENT_PAYMENT_LINK_CANCELLED = "payment_link.cancelled"
+EVENT_PAYMENT_LINK_EXPIRED = "payment_link.expired"
